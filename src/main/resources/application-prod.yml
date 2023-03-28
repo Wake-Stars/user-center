@@ -4,7 +4,7 @@ spring:
 #  Datasource Config
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/user_center
+    url: jdbc:mysql://124.221.199.207:3306/users_center
     username: root
     password: 123123
 #    失效时间
